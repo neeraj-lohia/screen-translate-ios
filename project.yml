@@ -2,7 +2,7 @@ name: ScreenTranslate
 options:
   bundleIdPrefix: com.neerajlohia
   deploymentTarget:
-    iOS: "17.4"
+    iOS: "18.0"
 configs:
   Release: release
 targets:
